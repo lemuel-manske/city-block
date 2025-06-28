@@ -1,158 +1,68 @@
-﻿name;y;x;is_public;label;
-"Ambulatório Geral da Família Haroldo Bachmann (AGF Velha)
-Rua José Reuter, 125 - Velha Central
-Tel.: (47) 3381.6249";-26.9337586147653;-49.131035939608300;yes;agf_ambulatorio_geral_familia_haroldo_bachmann;
-"ESF Walter Reiter I II III
-Rua Guilherme Poerner, 1280 - Velha
-Tel.: (47) 3381.6140";-26.9084556749548;-49.143679037760500;yes;esf_walter_reiter;
-"ESF Adelina M. Brueckheimer
-Rua José Reuter, 1415 - Velha Central
-Tel.: (47) 3381.6172";-26.9329415176937;-49.141895324266300;yes;esf_adelina_m_brueckheimer;
-"ESF Arão Rebello I e II
-Rua Franz Muller, 1950 - Velha Grande
-Tel.: (47) 3381.6601";-26.9500723116582;-49.13274082241680;yes;esf_arao_rebello;
-"ESF Afonso Balsini
-Rua José Reuter, 2412 - Velha Pequena
-Tel.: (47) 3381.6336";-26.9370901046484;-49.14962418193720;yes;esf_afonso_balsini;
-"ESF Paulo Pedro Mayerle I e II
-Rua Johann Hadlich, 263 - Passo Manso
-Tel.: (47) 3381.6400";-26.9024407928766;-49.15022628378720;yes;esf_paulo_pedro_mayerle;
-"ESF Valério José Steil I II III
-Rua João Pessoa, 1858 - Velha
-Tel.: (47) 3381-6287 / 6288 / 6289";-26.9183851171164;-49.09132141077330;yes;esf_valerio_jose_steil;
-"ESF Nair Neves Pereira
-Rua Matos Costa, 77 - Passo Manso
-Tel.: (47) 3381.6470";-26.9172033458441;-49.15227815310230;yes;esf_nair_neves_pereira;
-"ESF Waldemar Felski I e II
-Rua General Osório, 660 - Velha
-Tel.: (47) 3381.6351";-26.9198705802881;-49.106235012622200;yes;esf_waldemar_felski;
-"Ambulatório Geral da Família Marilene G. de Aguiar (AGF Escola Agrícola)
-Rua Norberto Seara Heusi, 477 - Escola Agrícola
-Tel.: (47) 3381.6267 / 3381.6268";-26.8935929727076;-49.10296280432540;yes;agf_ambulatorio_geral_familia_marilene_g_de_aguiar;
-"ESF Augusto César Viana I e II
-Rua General Osório, 2677 - Água Verde
-Tel.: (47) 3381.6727";-26.9101965887778;-49.12009958021530;yes;esf_augusto_cesar_viana;
-"ESF Áurea Pfuetzenreiter I e II
-Rua Bahia, 5353 - Salto Weissbach
-Tel.: (47) 3381.6629 / 3381.6631";-26.8927883202174;-49.1280771261166;yes;esf_aurea_pfuetzenreiter;
-"ESF Edemar Eduardo Winkler
-Rua Aquidabã, 94 - Escola Agrícola (Coripós)
-Tel.: (47) 3381.6119 / 3381.6120";-26.9038394328372;-49.103532841458400;yes;esf_edemar_eduardo_winkler;
-"ESF Ivanilde Bernardi
-Rua Matheus Bragagnolo, 865 (fundos) - Água Verde
-Tel.: (47) 3381.6694";-26.9051345990346;-49.110054212622600;yes;esf_ivanilde_bernardi;
-"ESF Augusto Antonio Schweigert
-Rua Bahia, 4001 - Salto Weissbach
-Tel.: (47) 3381.7349";-26.8867060881447;-49.11763151262340;yes;esf_augusto_antonio_schweigert;
-"ESF Jovino Cardoso I e III
-Rua Maria Popoer, s/nº - Água Verde
-Tel.: (47) 3381.6110 / 6111 / 6112 / 6114";-26.9140257737844;-49.1034646396092;yes;esf_jovino_cardoso;
-"Ambulatório Geral da Família Irmã Marta E. Kunzmann (AGF Garcia)
-Rua Progresso, 141 - Progresso";-26.9609609839585;-49.069288139607500;yes;agf_ambulatorio_geral_familia_irma_marta_e_kunzmann;
-"ESF Thamara Katryne Rodrigues Schmidt I e II
-Rua Santa Maria, 2056 - Progresso";-26.9933545363835;-49.092617308921800;yes;esf_thamara_katryne_rodrigues_schmidt;
-"ESF Benedito C. Rocha
-Rua Santa Terezinha, 295 - Progresso";-26.9761188084063;-49.077706826113600;yes;esf_benedito_c_rocha;
-"ESF Dr. Wilson Santhiago
-Rua Antônio Zendron, 1625 - Valparaíso";-26.9543138365781;-49.086077512601400;yes;esf_dr_wilson_santhiago;
-"ESF Frei João Maria
-Rua Belo Horizonte, 228 - Glória";-26.9652511780793;-49.06391578008720;yes;esf_frei_joao_maria;
-"ESF Enfermeira Tânia Leite
-Rua Francisco Benigno, 55 - Jordão";-26.9971317213958;-49.068770939606200;yes;esf_enfermeira_tania_leite;
-"ESF Marli Batschauer
-Rua Itapuí, s/n - Garcia";-26.9463986244833;-49.06594895495010;yes;esf_marli_batschauer;
-"ESF Silvana Witte
-Rua Helmuth Goll, s/n - Progresso (Canto do Rio)";-26.9865115676283;-49.08234696066970;yes;esf_silvana_witte;
-"ESF Marco Francisco Barth
-Rua Rui Barbosa, 1616 - Progresso";-26.9712699862534;-49.091891997278200;yes;esf_marco_francisco_barth;
-"ESF Maria Schlindwein Baumgartner I e II
-Rua da Glória, 1993 - Glória";-26.9673466622678;-49.05198361608340;yes;esf_maria_schlindwein_baumgartner;
-"UAS Léo de Carvalho
-Rua Eng. Odebrecht, 961 - Garcia";-26.9389357437939;-49.059043056915000;yes;uas_leo_de_carvalho;
-Ambulatório Geral da Família Mário Jorge Vieira (AGF Fortaleza);-26.8688749334008;-49.06106987436400;yes;agf_ambulatorio_geral_familia_mario_jorge_vieira;
-ESF Ângelo de Caetano I e II – Rua Godofredo Rangel, 100 - Fidélis;-26.8494331577417;-49.073290053887900;yes;esf_angelo_de_caetano;
-ESF Hasso Müller I – Rua Hermann Tribess, 457 - Tribess;-26.877254712892;-49.05880627179290;yes;esf_hasso_muller;
-ESF Evacir Barth – Rua Roberto Koch, 78 - Tribess;-26.8809907509296;-49.05511431420350;yes;esf_evacir_barth;
-ESF Germano Puff – Rua 1º de Janeiro, 74 - Itoupava Norte;-26.8731002370603;-49.08815524451120;yes;esf_germano_puff;
-ESF Gustavo Tribess I e II – Rua Hermann Tribess, 1975 - Tribess;-26.8698562553464;-49.049806439610500;yes;esf_gustavo_tribess;
-ESF Lothar Franz – Rua Helmuth Sievert, s/nº - Itoupava Norte;-26.8722754030663;-49.083521281113000;yes;esf_lothar_franz;
-ESF Norberto Sprung – Rua Hermann Lange, ao lado 2268 - Fidélis;-26.830044168755;-49.06122755310530;yes;esf_norberto_sprung;
-ESF Zerbert Kraupp – Rua Nesio Antunes da Silva, 135;-26.8803797865702;-49.045518503074600;yes;esf_zerbert_kraupp;
-Ambulatório Geral da Família Mário Jorge Vieira (AGF Fortaleza);-26.8687095648592;-49.06108266844620;yes;agf_ambulatorio_geral_familia_mario_jorge_vieira;
-ESF Ângelo de Caetano I e II – Rua Godofredo Rangel, 100 - Fidélis;-26.8494224749786;-49.07320232167480;yes;esf_angelo_de_caetano;
-ESF Hasso Müller I – Rua Hermann Tribess, 457 - Tribess;-26.8772362010675;-49.058819707508900;yes;esf_hasso_muller;
-ESF Evacir Barth – Rua Roberto Koch, 78 - Tribess;-26.8809951106455;-49.055096094404100;yes;esf_evacir_barth;
-ESF Germano Puff – Rua 1º de Janeiro, 74 - Itoupava Norte;-26.8730250339262;-49.088182126117200;yes;esf_germano_puff;
-ESF Gustavo Tribess I e II – Rua Hermann Tribess, 1975 - Tribess;-26.8700405562293;-49.04980747873920;yes;esf_gustavo_tribess;
-ESF Lothar Franz – Rua Helmuth Sievert, s/nº - Itoupava Norte;-26.872089340875;-49.08350172426810;yes;esf_lothar_franz;
-ESF Norberto Sprung – Rua Hermann Lange, ao lado 2268 - Fidélis;-26.8300154471449;-49.06130265495420;yes;esf_norberto_sprung;
-ESF Zerbert Kraupp – Rua Nesio Antunes da Silva, 135;-26.8803009236799;-49.04522874570800;yes;esf_zerbert_kraupp;
-Ambulatório Geral da Família Guilherme Jensen (AGF Itoupava);-26.7996945718101;-49.08669919728400;yes;agf_ambulatorio_geral_familia_guilherme_jensen;
-ESF Alfredo Hoess – Rua Max Hauffe, 218 - Vila Itoupava;-26.724975317201;-49.06829916283630;yes;esf_alfredo_hoess;
-ESF Wilhelm Theodor Schurmann – Rua Pérola do Vale, 377 - Itoupava Central;-26.8343527501989;-49.08362979728290;yes;esf_wilhelm_theodor_schurmann;
-ESF Jackson Roberto Carl – Rua Gustavo Zimmermann, 4099 - Itoupava Central;-26.8156747502744;-49.08696240892810;yes;esf_jackson_roberto_carl;
-ESF Franz Zimdars – Rua Ervin Manske, 4571 - Vila Itoupava;-26.7052354109453;-49.10208929543840;yes;esf_franz_zimdars;
-ESF Gustavo Froehlisch Barroso – Rua João Krause, 56 - Itoupava Central;-26.8194985553946;-49.08668502427000;yes;esf_gustavo_froehlisch_barroso;
-ESF Martin Volles I e II – Rua Franz Volles, s/nº - Itoupava Central;-26.8331655350791;-49.107019768447400;yes;esf_martin_volles;
-"Ambulatório Geral da Família Dr. Diogo Vergara (AGF Badenfurt)
-Rua Villa Lobos, 121 - Badenfurt 
-Atendimento: de segunda a sexta-feira, das 7h às 22h
-Tel.: (47) 3381.6710 | 3381.6711";-26.8789208306925;-49.13997589617140;yes;agf_ambulatorio_geral_familia_dr_diogo_vergara;
-"ESF Armando Odebrecht I e II
-Rua Professor Jacob Ineichen, defronte 50 - Itoupavazinha
-Atendimento:das 7h30 às 12h e das 13h às 16h30
-Tel.: (47) 3381.7075";-26.8530573798414;-49.12029030313320;yes;esf_armando_odebrecht;
-"ESF Frederico Jensen
-Rua Frederico Jensen, 988 - Itoupavazinha
-Atendimento: 7h às 12h e das 13h às 16h
-Tel: 3381.6102 | 3381.6103
-";-26.8600987430592;-49.09577833826920;yes;esf_frederico_jensen;
-"ESF Geraldo Schmidt Sobrinho
-Rua Johann Sachse, ao lado do número 2602 - Salto do Norte
-Atendimento: 7h30 às 12h e das 13h30 às 16h30
-Tel.: (47) 3381.6716 | 3381.6717";-26.8656905809107;-49.12016001565090;yes;esf_geraldo_schmidt_sobrinho;
-"ESF Gilson Piva I
-Rua Jardim Germanico, s/nº - Itoupavazinha
-Atendimento: 7h às 12h e das 13h às 16h
-Tel.: (47) 3381.6101";-26.8540381273437;-49.09433006844660;yes;esf_gilson_piva;
-"ESF Harold Ewald
-Rua Frederico Jensen, 2429 - Itoupavazinha
-Atendimento: 7h às 12h 13h às 16h
-Tel.: (47) 3381.6243";-26.85714727468;-49.10950422611770;yes;esf_harold_ewald;
-"ESF Tereza Leszcowicz
-Rua Felipe Bauler, 2155 - Itoupavazinha
-Atendimento: 7h às 12h e das 13h às 16h
-Tel.: (47) 3381.6280 | 3381.6281";-26.8543273315404;-49.1320335307759;yes;esf_tereza_leszcowicz;
-"Ambulatório Geral da Família Heinz Schrader (AGF Centro)
-Rua República Argentina, 2.077 - Ponta Aguda
-Atendimento: de segunda a sexta-feira, das 7h às 22h
-Tel.: (47) 3381.6257"; -26.9084796338429 ; -49.04712439728050 ;yes;agf_ambulatorio_geral_familia_heinz_schrader;
-"ESF Afonso Rabe
-Rua Uruguaiana, 411 - Ponta Aguda
-Atendimento: 7h às 12h e das 13h às 16h
-Tel.: (47) 3381.6821 "; -26.9043370004222 ; -49.04862059553310 ;yes;esf_afonso_rabe;
-"ESF Glodoaldo Lino de Amorim I e II
-Rua Araranguá, 728 - Ribeirão Fresco
-Atendimento: 7h às 12h e das 13h às 16h
-Tel.: (47) 3381.6274 "; -26.9324692603808 ; -49.05489533285710 ;yes;esf_glodoaldo_lino_de_amorim;
-"ESF Otto Bartsch Neto
-Rua Cuba, 40 - Ponta Aguda
-Atendimento: 8h às 12h e das 13h às 17h
-Tel.: (47) 3381.6115 | 3381.6117 (odontologia)
-"; -26.9077515553431 ; -49.06731259442570 ;yes;esf_otto_bartsch_neto;
-"ESF Orlando Margarida
-Rua Santo André – defronte ao nº 55 - Itoupava Norte
-Atendimento: 7h às 12h e das 13h às 16h30 
-Tel.: 3381.6109";-26.8909923513671;-49.07365734168920;yes;esf_orlando_margarida;
-"ESF Pedro Krauss
-Rua Itajaí, 1519 - Vorstadt
-Atendimento: 7h às 12h e das 13h às 16h
-Tel.: (47) 3381.7519";-26.9119971444187;-49.05050936140180;yes;esf_pedro_krauss;
-"ESF Rubens Belisário Vedes
-Rua Luiz Eleodoro da Silva, 735 - Ponta Aguda 
-Atendimento: 8h às 12h e das 13h às 17h
-Tel.: (47) 3381.7133";-26.9017682163286;-49.04822888952140;yes;esf_rubens_belisario_vedes;
-"ESF Rudolfo Oswald Hesse
-Rua Pastor Oswaldo Hesse, 1620 - Ribeirão Fresco
-Atendimento: 8h às 12h e das 13h às 17h
-Tel.: (47) 3381.7305";-26.9280030459554;-49.04076437161180;yes;esf_rudolfo_oswald_hesse;
+﻿name,y,x,is_public,label
+AGF Haroldo Bachmann,-26.9337586147653,-49.131035939608300,yes,ponto_saude
+ESF Walter Reiter I II III,-26.9084556749548,-49.143679037760500,yes,ponto_saude
+ESF Adelina M. Brueckheimer,-26.9329415176937,-49.141895324266300,yes,ponto_saude
+ESF Arão Rebello I e II,-26.9500723116582,-49.13274082241680,yes,ponto_saude
+ESF Afonso Balsini,-26.9370901046484,-49.14962418193720,yes,ponto_saude
+ESF Paulo Pedro Mayerle I e II,-26.9024407928766,-49.15022628378720,yes,ponto_saude
+ESF Valério José Steil I II III,-26.9183851171164,-49.09132141077330,yes,ponto_saude
+ESF Nair Neves Pereira,-26.9172033458441,-49.15227815310230,yes,ponto_saude
+ESF Waldemar Felski I e II,-26.9198705802881,-49.106235012622200,yes,ponto_saude
+AGF Marilene G. de Aguiar,-26.8935929727076,-49.10296280432540,yes,ponto_saude
+ESF Augusto César Viana I e II,-26.9101965887778,-49.12009958021530,yes,ponto_saude
+ESF Áurea Pfuetzenreiter I e II,-26.8927883202174,-49.1280771261166,yes,ponto_saude
+ESF Edemar Eduardo Winkler,-26.9038394328372,-49.103532841458400,yes,ponto_saude
+ESF Ivanilde Bernardi,-26.9051345990346,-49.110054212622600,yes,ponto_saude
+ESF Augusto Antonio Schweigert,-26.8867060881447,-49.11763151262340,yes,ponto_saude
+ESF Jovino Cardoso I e III,-26.9140257737844,-49.1034646396092,yes,ponto_saude
+AGF Irmã Marta E. Kunzmann,-26.9609609839585,-49.069288139607500,yes,ponto_saude
+ESF Thamara Katryne Rodrigues Schmidt I e II,-26.9933545363835,-49.092617308921800,yes,ponto_saude
+ESF Benedito C. Rocha,-26.9761188084063,-49.077706826113600,yes,ponto_saude
+ESF Dr. Wilson Santhiago,-26.9543138365781,-49.086077512601400,yes,ponto_saude
+ESF Frei João Maria,-26.9652511780793,-49.06391578008720,yes,ponto_saude
+ESF Enfermeira Tânia Leite,-26.9971317213958,-49.068770939606200,yes,ponto_saude
+ESF Marli Batschauer,-26.9463986244833,-49.06594895495010,yes,ponto_saude
+ESF Silvana Witte,-26.9865115676283,-49.08234696066970,yes,ponto_saude
+ESF Marco Francisco Barth,-26.9712699862534,-49.091891997278200,yes,ponto_saude
+ESF Maria Schlindwein Baumgartner I e II,-26.9673466622678,-49.05198361608340,yes,ponto_saude
+UAS Léo de Carvalho,-26.9389357437939,-49.059043056915000,yes,ponto_saude
+AGF Mário Jorge Vieira,-26.8688749334008,-49.06106987436400,yes,ponto_saude
+ESF Ângelo de Caetano I e II,-26.8494331577417,-49.073290053887900,yes,ponto_saude
+ESF Hasso Müller I,-26.877254712892,-49.05880627179290,yes,ponto_saude
+ESF Evacir Barth,-26.8809907509296,-49.05511431420350,yes,ponto_saude
+ESF Germano Puff,-26.8731002370603,-49.08815524451120,yes,ponto_saude
+ESF Gustavo Tribess I e II,-26.8698562553464,-49.049806439610500,yes,ponto_saude
+ESF Lothar Franz,-26.8722754030663,-49.083521281113000,yes,ponto_saude
+ESF Norberto Sprung,-26.830044168755,-49.06122755310530,yes,ponto_saude
+ESF Zerbert Kraupp,-26.8803797865702,-49.045518503074600,yes,ponto_saude
+AGF Mário Jorge Vieira,-26.8687095648592,-49.06108266844620,yes,ponto_saude
+ESF Ângelo de Caetano I e II,-26.8494224749786,-49.07320232167480,yes,ponto_saude
+ESF Hasso Müller I,-26.8772362010675,-49.058819707508900,yes,ponto_saude
+ESF Evacir Barth,-26.8809951106455,-49.055096094404100,yes,ponto_saude
+ESF Germano Puff,-26.8730250339262,-49.088182126117200,yes,ponto_saude
+ESF Gustavo Tribess I e II,-26.8700405562293,-49.04980747873920,yes,ponto_saude
+ESF Lothar Franz,-26.872089340875,-49.08350172426810,yes,ponto_saude
+ESF Norberto Sprung,-26.8300154471449,-49.06130265495420,yes,ponto_saude
+ESF Zerbert Kraupp,-26.8803009236799,-49.04522874570800,yes,ponto_saude
+AGF Guilherme Jensen,-26.7996945718101,-49.08669919728400,yes,ponto_saude
+ESF Alfredo Hoess,-26.724975317201,-49.06829916283630,yes,ponto_saude
+ESF Wilhelm Theodor Schurmann,-26.8343527501989,-49.08362979728290,yes,ponto_saude
+ESF Jackson Roberto Carl,-26.8156747502744,-49.08696240892810,yes,ponto_saude
+ESF Franz Zimdars,-26.7052354109453,-49.10208929543840,yes,ponto_saude
+ESF Gustavo Froehlisch Barroso,-26.8194985553946,-49.08668502427000,yes,ponto_saude
+ESF Martin Volles I e II,-26.8331655350791,-49.107019768447400,yes,ponto_saude
+AGF Dr. Diogo Vergara,-26.8789208306925,-49.13997589617140,yes,ponto_saude
+ESF Armando Odebrecht I e II,-26.8530573798414,-49.12029030313320,yes,ponto_saude
+ESF Frederico Jensen,-26.8600987430592,-49.09577833826920,yes,ponto_saude
+ESF Geraldo Schmidt Sobrinho,-26.8656905809107,-49.12016001565090,yes,ponto_saude
+ESF Gilson Piva I,-26.8540381273437,-49.09433006844660,yes,ponto_saude
+ESF Harold Ewald,-26.85714727468,-49.10950422611770,yes,ponto_saude
+ESF Tereza Leszcowicz,-26.8543273315404,-49.1320335307759,yes,ponto_saude
+AGF Heinz Schrader,-26.9084796338429,-49.04712439728050,yes,ponto_saude
+ESF Afonso Rabe,-26.9043370004222,-49.04862059553310,yes,ponto_saude
+ESF Glodoaldo Lino de Amorim I e II,-26.9324692603808,-49.05489533285710,yes,ponto_saude
+ESF Otto Bartsch Neto,-26.9077515553431,-49.06731259442570,yes,ponto_saude
+ESF Orlando Margarida,-26.8909923513671,-49.07365734168920,yes,ponto_saude
+ESF Pedro Krauss,-26.9119971444187,-49.05050936140180,yes,ponto_saude
+ESF Rubens Belisário Vedes,-26.9017682163286,-49.04822888952140,yes,ponto_saude
+ESF Rudolfo Oswald Hesse,-26.9280030459554,-49.04076437161180,yes,ponto_saude
